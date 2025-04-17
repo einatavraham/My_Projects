@@ -1,5 +1,5 @@
 MIN_PRICE = "50"
-MAX_PRICE = "120"
+MAX_PRICE = "100"
 
 PRODUCT = "square dining table"
 
